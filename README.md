@@ -1,4 +1,2 @@
 # Cuidandonos-Practica
-Alumnos:
-Luciano Agustin Lopez
-Tomás José Giampauli
+## Realizado por Luciano Agustin Lopez y Tomás José Giampauli
